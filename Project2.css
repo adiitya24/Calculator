@@ -1,0 +1,45 @@
+.text-center{
+    align-items: center;
+}
+.container{
+    height: 382px;
+    width: 300px;
+    border: 2px solid black;
+    background:linear-gradient(45deg,#0a0a0a,#3a4452)
+
+}
+.button{
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 12px;
+    border-radius: 9px;
+background: transparent;
+color: white;
+cursor: pointer;
+
+}
+#result{
+    margin-top: 15px;
+    margin-left: 30px;
+    height: 25px;
+    width: 230px;
+    border-radius: 5px;
+    border: 1pxsolid yellow;
+    font-size: 18px;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+
+}
+body{
+    diplay:flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
