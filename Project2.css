@@ -3,14 +3,14 @@
 }
 .container{
     height: 382px;
-    width: 300px;
+    width: 272px;
     border: 2px solid black;
     background:linear-gradient(45deg,#0a0a0a,#3a4452)
 
 }
 .button{
    height: 50px;
-    width: 50px;
+    width: 42px;
     margin-top: 15px;
     margin-right: 10px;
     margin-left: 12px;
@@ -24,7 +24,7 @@ box-shadow: 6px 4px -6px;
 }
 #result{
     margin-top: 15px;
-    margin-left: 30px;
+    margin-left: 22px;
     height: 25px;
     width: 230px;
     border-radius: 5px;
